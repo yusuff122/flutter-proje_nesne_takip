@@ -1,6 +1,6 @@
-# proje_nesne_takip
+# flutter proje_nesne_takip
 
-A new Flutter project.
+cihaz sensörü ile herhangi bir hareket olup olmadığını yakalıyabilirsiniz
 
 ## Getting Started
 
